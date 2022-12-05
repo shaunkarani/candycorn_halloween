@@ -1,4 +1,4 @@
-# whack
+# halloween candycorn app project
 
 A new Flutter project.
 
